@@ -1,2 +1,0 @@
-# selectComponent
-Created with CodeSandbox
